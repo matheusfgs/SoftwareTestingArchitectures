@@ -25,6 +25,10 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 
 
 
+.“Additionally, standard modeling supports engineering analysis, trade studies, risk analysis and improvements before any actual hardware, software, and/or systems are created. Thiscan avoid cost and schedule impacts as well as often being able to highlight risks and allowing time to mitigate those risks.” (Página 9)
+
+
+
 
 
 
