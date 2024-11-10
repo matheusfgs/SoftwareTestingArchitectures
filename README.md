@@ -13,6 +13,9 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 **.Test Viewpoints:** São as diferentes perspectivas ou abordagens adotadas para observar e entender um sistema durante seu processo de teste. Esses pontos de vista ajudam a descrever como o sistema deve ser validado e verificado de acordo com diferentes requisitos ou aspectos do sistema. Cada test viewpoint pode foca em elementos específicos, como a funcionalidade, o desempenho, a segurança, a usabilidade e a conformidade técnica. (Página 2, Architecture styles in building structures and software test environments)
 
 
+**.Validação do Projeto:** Processo que descreve as  necessidades, dependências e interações entre a Arquitetura de Teste (TA) e a suas partes interessadas, aos usuários, e a outros sistemas e entidades externas com as quais o software se comunica. (Página 3, Tabela 1)
+
+
 
 
 
