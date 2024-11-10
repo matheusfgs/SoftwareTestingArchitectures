@@ -8,7 +8,9 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 
 # 2.Fichamento Bibliográfico
 
-.**OMG**: sigla de “Object Management Group”, que é uma organização internacional que desenvolve padrões para a indústria de tecnologia da informação, principalmente para promover portabilidade de sistemas complexos. ( Página 1, Introduction)
+**.OMG**: sigla de “Object Management Group”, que é uma organização internacional que desenvolve padrões para a indústria de tecnologia da informação, principalmente para promover portabilidade de sistemas complexos. ( Página 1, Introduction)
+
+**.Test Viewpoints:** São as diferentes perspectivas ou abordagens adotadas para observar e entender um sistema durante seu processo de teste. Esses pontos de vista ajudam a descrever como o sistema deve ser validado e verificado de acordo com diferentes requisitos ou aspectos do sistema. Cada test viewpoint pode foca em elementos específicos, como a funcionalidade, o desempenho, a segurança, a usabilidade e a conformidade técnica. (Página 2, Architecture styles in building structures and software test environments)
 
 
 
