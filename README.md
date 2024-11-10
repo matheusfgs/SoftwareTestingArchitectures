@@ -23,7 +23,9 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 # 3.Fichamento de Citações:
 
 
+“Artefact plays in a certain test configuration is different to the role it plays in another test configuration.” (Página 4)
 
+."Experiences of the last ten years of usingUTP for that purpose have shown that the characteristics of mapping UTP test architectures to concrete test environments are specific to the tools and languages used for execution" (Página 6)
 
 .“Additionally, standard modeling supports engineering analysis, trade studies, risk analysis and improvements before any actual hardware, software, and/or systems are created. Thiscan avoid cost and schedule impacts as well as often being able to highlight risks and allowing time to mitigate those risks.” (Página 9)
 
