@@ -8,6 +8,9 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 
 # 2.Fichamento Bibliográfico
 
+.**OMG**: sigla de “Object Management Group”, que é uma organização internacional que desenvolve padrões para a indústria de tecnologia da informação, principalmente para promover portabilidade de sistemas complexos. ( Página 1, Introduction)
+
+
 
 
 
