@@ -15,6 +15,8 @@ O artigo aborda o conceito de arquitetura de teste de software (STA) e a aplica�
 
 **.Validação do Projeto:** Processo que descreve as  necessidades, dependências e interações entre a Arquitetura de Teste (TA) e a suas partes interessadas, aos usuários, e a outros sistemas e entidades externas com as quais o software se comunica. (Página 3, Tabela 1)
 
+**.Metaclasse Stereotype:** É um conceito do modelo UML (Unified Modeling Language) que permite estender e personalizar a UML para diferentes domínios e contextos específicos.
+
 
 
 
